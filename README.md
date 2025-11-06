@@ -10,7 +10,7 @@ The objective is to find the cyclical path that visits every city exactly once w
 
 ## Methodology
 
-The implementation is enhanced with several advanced techniques:
+The implementation is enhanced with several techniques:
 
 * **Specialized Memetic Algorithms:** Two distinct algorithms are used:
     * `memetic_algorithm_2opt`: For symmetric problems (`g_`).
