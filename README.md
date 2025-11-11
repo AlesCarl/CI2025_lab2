@@ -1,6 +1,3 @@
-Nessun problema. Ecco il README completo in inglese, con le tabelle dei risultati integrate.
-
----
 
 # Traveling Salesperson Problem (TSP)
 
